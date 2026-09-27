@@ -2,7 +2,7 @@
 
 Personal portfolio website for Zuha Junaid, built with [Next.js](https://nextjs.org) and TypeScript.
 
-🔗 **Live site:** [zuha-portfolio-lyart.vercel.app](https://zuhajunaid-portfolio.vercel.app/)
+🔗 **Live site:** [zuhajunaid-portfolio.vercel.app](https://zuhajunaid-portfolio.vercel.app/)
 
 ## Tech Stack
 
